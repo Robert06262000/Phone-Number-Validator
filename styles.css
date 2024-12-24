@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+  }
+  input{
+    border: 20pc;
+  }
+  button{
+    background-color: silver;
+    display: inline-flex;
+    align-items: center;
+  }
+  #results-div{
+    color: white;
+  }
